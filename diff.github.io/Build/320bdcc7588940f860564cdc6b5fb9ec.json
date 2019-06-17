@@ -1,0 +1,16 @@
+{
+"companyName": "EqualKey",
+"productName": "toRect",
+"productVersion": "1.0",
+"dataUrl": "4de31fa51e01756fe6b35af5018c6a90.unityweb",
+"wasmCodeUrl": "4960c538e2ed51cb7f62af27fa3692be.unityweb",
+"wasmFrameworkUrl": "1b9f74d93a58579b30fb7b03618d73eb.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.3f1"
+}
